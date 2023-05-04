@@ -1,18 +1,17 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>Homepage</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus distinctio numquam perspiciatis excepturi aliquid provident repellat eligendi minus deserunt temporibus? Totam deserunt, eveniet tempore temporibus cum velit? Perspiciatis pariatur aspernatur cumque assumenda esse, similique fugiat dolores, mollitia voluptate, odit cupiditate repellendus! Eligendi distinctio perspiciatis illo eaque quod, at necessitatibus, numquam atque nulla, minus excepturi? Odio tempore ullam, aperiam voluptate dicta impedit incidunt ipsa dolorum facilis ut corporis ab. Quasi recusandae quae voluptas obcaecati perspiciatis itaque saepe aut? Quis, sequi quos nam dolores nemo ex officia aliquid quod mollitia fuga assumenda quisquam sed ab, perferendis minus praesentium tempore quasi saepe unde?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus distinctio numquam perspiciatis excepturi aliquid provident repellat eligendi minus deserunt temporibus? Totam deserunt, eveniet tempore temporibus cum velit? Perspiciatis pariatur aspernatur cumque assumenda esse, similique fugiat dolores, mollitia voluptate, odit cupiditate repellendus! Eligendi distinctio perspiciatis illo eaque quod, at necessitatibus, numquam atque nulla, minus excepturi? Odio tempore ullam, aperiam voluptate dicta impedit incidunt ipsa dolorum facilis ut corporis ab. Quasi recusandae quae voluptas obcaecati perspiciatis itaque saepe aut? Quis, sequi quos nam dolores nemo ex officia aliquid quod mollitia fuga assumenda quisquam sed ab, perferendis minus praesentium tempore quasi saepe unde?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus distinctio numquam perspiciatis excepturi aliquid provident repellat eligendi minus deserunt temporibus? Totam deserunt, eveniet tempore temporibus cum velit? Perspiciatis pariatur aspernatur cumque assumenda esse, similique fugiat dolores, mollitia voluptate, odit cupiditate repellendus! Eligendi distinctio perspiciatis illo eaque quod, at necessitatibus, numquam atque nulla, minus excepturi? Odio tempore ullam, aperiam voluptate dicta impedit incidunt ipsa dolorum facilis ut corporis ab. Quasi recusandae quae voluptas obcaecati perspiciatis itaque saepe aut? Quis, sequi quos nam dolores nemo ex officia aliquid quod mollitia fuga assumenda quisquam sed ab, perferendis minus praesentium tempore quasi saepe unde?</p>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
   name: 'HomeView',
-  components: {
-    HelloWorld
-  }
+  components: { }
 }
 </script>
