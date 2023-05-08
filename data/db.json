@@ -1,7 +1,9 @@
 {
     "jobs": [
-        {"title": "Ninja UX Designer", "id": 1, "details": "lorem"},
-        {"title": "Ninja Web Developer", "id": 2, "details": "lorem"},
-        {"title": "Ninja Vue Developer", "id": 3, "details": "lorem"}
-    ]
+        {"title": "Ninja UX Designer", "id": 1, "detail": "lorem"},
+        {"title": "Ninja Web Developer", "id": 2, "detail": "lorem"},
+        {"title": "Ninja Vue Developer", "id": 3, "detail": "lorem"},
+        {"title": "Ninja Mern Developer", "id": 4, "detail": "lorem"}
+    ],
+    "blogs": []
 }
